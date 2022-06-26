@@ -1,0 +1,14 @@
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr, td {
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+.maim_td {
+    padding-right: 100px;
+}
